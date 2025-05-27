@@ -12,26 +12,25 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of Contents
 
-About
+## About [About](#About)
+## Portfolio Projects [Portfolio Projects](#Portfolio Project)
 
-Portfolio Projects [Jump to Project Overview](# Portfolio Projects)
-
-Python
-  1. Airbnb Booking Analysis
+-**Python**
+   -[Airbnb Booking Analysis](https://github.com/Aayushigupta357/Github-Portfolio?tab=readme-ov-file#portfolio-projects)
      
-SQL
+-**SQL**
 
-Excel / Google Sheets
+-**Excel / Google Sheets**
 
-Tabelau  
+-**Tabelau**
 
-Power BI
+-**Power BI**
   
-Education
+## Education [Education](#Education)
 
-Certificates
+## Certificates [Certificate](#Certificates)
 
-Contact
+## Contact [Contact](#Contacts)
 
 # Portfolio Projects
 
