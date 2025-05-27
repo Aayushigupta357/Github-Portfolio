@@ -74,6 +74,7 @@ KPMG AU Data Analytics Virtual Internship (Jan 2023)
 # Contacts
 
 LinkedIn: https://www.linkedin.com/in/aayushi-gupta-8757371a9/
+
 Email: guptaaayushi356@gmail.com
 
 
