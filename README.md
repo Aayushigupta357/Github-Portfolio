@@ -13,10 +13,10 @@ This is a repository to showcase skills, share projects and track my progress in
 # Table of Contents
 
 ## [About](#About)
-## [Portfolio Projects](#Portfolio Project)
+## [Portfolio Projects](#PortfolioProject)
 
 -**Python**
-   -[Airbnb Booking Analysis] (https://github.com/Aayushigupta357/Github-Portfolio?tab=readme-ov-file#portfolio-projects)
+   -[Airbnb Booking Analysis] (**Airbnb Booking Analysis**)
      
 -**SQL**
 
@@ -72,9 +72,8 @@ KPMG AU Data Analytics Virtual Internship (Jan 2023)
 
 # Contacts
 
-LinkedIn: https://www.linkedin.com/in/aayushi-gupta-8757371a9/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushi-gupta-8757371a9/)
 
-Email: guptaaayushi356@gmail.com
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](guptaaayushi356@gmail.com)
 
 
