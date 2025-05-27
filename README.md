@@ -12,11 +12,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of Contents
 
-## About [About](#About)
-## Portfolio Projects [Portfolio Projects](#Portfolio Project)
+## [About](#About)
+## [Portfolio Projects](#Portfolio Project)
 
 -**Python**
-   -[Airbnb Booking Analysis](https://github.com/Aayushigupta357/Github-Portfolio?tab=readme-ov-file#portfolio-projects)
+   -[Airbnb Booking Analysis] (https://github.com/Aayushigupta357/Github-Portfolio?tab=readme-ov-file#portfolio-projects)
      
 -**SQL**
 
@@ -26,11 +26,11 @@ This is a repository to showcase skills, share projects and track my progress in
 
 -**Power BI**
   
-## Education [Education](#Education)
+## [Education](#Education)
 
-## Certificates [Certificate](#Certificates)
+## [Certificate](#Certificates)
 
-## Contact [Contact](#Contacts)
+## [Contact](#Contacts)
 
 # Portfolio Projects
 
@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Airbnb Booking Analysis**
 
-Code: https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb
+*Code*: -[Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
 
 *Goal*: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
 
