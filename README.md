@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 About
 
-Portfolio Projects
+Portfolio Projects [Jump to Project Overview](# Portfolio Projects)
 
 Python
   1. Airbnb Booking Analysis
