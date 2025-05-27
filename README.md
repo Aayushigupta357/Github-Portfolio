@@ -8,37 +8,36 @@ During my previous projects, I have handled complex data and developed a keen ey
 
 In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
 
-This isa repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
+This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
 
 # Table of Contents
 
-**About**
+# About
 
-*Portfolio Projects*
+# Portfolio Projects
 
-             Python
-     Airbnb Booking Analysis
-
-  SQL
+Python
+  1. Airbnb Booking Analysis
   
+SQL
   
-  Excel / Google Sheets
+Excel / Google Sheets
   
-  Tabelau
+Tabelau
   
-  Power BI
+Power BI
   
-**Education**
+# Education
 
-**Certificates**
+# Certificates
 
-**Contact**
+# Contact
 
-**Portfolio Projects**
+# Portfolio Projects
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases. 
 
-*Airbnb Booking Analysis*
+# Airbnb Booking Analysis
 Code: https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb
 
 *Goal*: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
@@ -51,7 +50,7 @@ Code: https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbn
 
 *Results*: Entire apartments with year-round availability in central areas attract the most bookings and higher prices.
 
-**Education**
+# Education
 
 Narsee Monjee Institute of Management Studies, Mumbai - MBA distance, Data Science, Jan 2025 - Jan 2027
 
@@ -59,7 +58,7 @@ Amity University, Noida: Master’s Degree, Travel and Tourism Management, 2019 
 
 Prestige Institute of Management and Research, Indore: Bachelor’s degree, Foreign Trade, 2016 - 2019
 
-**Certificates**
+# Certificates
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here;s a list od the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
@@ -72,15 +71,10 @@ The best way to showcase skills is by doing and sharing your job done but someti
 *KPMG AU Data Analytics Virtual Internship (Jan 2023)*
 
 
-**Contacts**
+# Contacts
 
 *LinkedIn*: https://www.linkedin.com/in/aayushi-gupta-8757371a9/
 *Email*: guptaaayushi356@gmail.com
 
-
-This isa repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
-
-# Table of Contents
- 
 
 
