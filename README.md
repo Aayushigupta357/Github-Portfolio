@@ -38,7 +38,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ***Airbnb Booking Analysis***
 
-**Code**: -[Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
+**Code**: [Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
 
 **Goal**: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
 
@@ -62,15 +62,13 @@ Prestige Institute of Management and Research, Indore: Bachelor’s degree, Fore
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here;s a list od the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
--[ETL in Python and SQL] (https://www.linkedin.com/learning/certificates/f33badf23078e01640cd035b2b94958c333a06146fafb938aa6bdddecb7c3e44) (Jul 2024) (LinkedIn)
+[ETL in Python and SQL] (https://www.linkedin.com/learning/certificates/f33badf23078e01640cd035b2b94958c333a06146fafb938aa6bdddecb7c3e44) (Jul 2024) (LinkedIn)
 
--[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PE6NV328J4ZV) (Mar 2023)
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PE6NV328J4ZV) (Mar 2023)
 
--[QRIOSO’23 - Quizzing Festival IIM Lucknow](https://unstop.com/certificate-preview/645db9c2-6c17-4892-8dd4-bc24af2da928) (Mar 2023)
+[QRIOSO’23 - Quizzing Festival IIM Lucknow](https://unstop.com/certificate-preview/645db9c2-6c17-4892-8dd4-bc24af2da928) (Mar 2023)
 
--[KPMG AU Data Analytics Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_vppNdZFmFWCKevJu9_1673691606656_completion_certificate.pdf) (Jan 2023)
-
--[Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
+[KPMG AU Data Analytics Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_vppNdZFmFWCKevJu9_1673691606656_completion_certificate.pdf) (Jan 2023)
 
 # Contacts
 
