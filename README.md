@@ -12,32 +12,28 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # Table of Contents
 
-# About [https://www.linkedin.com/in/aayushi-gupta-8757371a9/]
+About
 
-# Portfolio Projects
+Portfolio Projects
 
 Python
   1. Airbnb Booking Analysis
-  
 SQL
-  
 Excel / Google Sheets
-  
-Tabelau
-  
+Tabelau  
 Power BI
   
-# Education
+Education
 
-# Certificates
+Certificates
 
-# Contact
+Contact
 
 # Portfolio Projects
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases. 
 
-# Airbnb Booking Analysis
+**Airbnb Booking Analysis**
 Code: https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb
 
 *Goal*: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
@@ -62,19 +58,15 @@ Prestige Institute of Management and Research, Indore: Bachelor’s degree, Fore
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here;s a list od the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-*ETL in Python and SQL (Jul 2024) (LinkedIn)*
-
-*Google Data Analytics Professional Certificate (Mar 2023)*
-
-*QRIOSO’23 - Quizzing Festival IIM Lucknow (Mar 2023)*
-
-*KPMG AU Data Analytics Virtual Internship (Jan 2023)*
-
+ETL in Python and SQL (Jul 2024) (LinkedIn)
+Google Data Analytics Professional Certificate (Mar 2023)
+QRIOSO’23 - Quizzing Festival IIM Lucknow (Mar 2023)
+KPMG AU Data Analytics Virtual Internship (Jan 2023)
 
 # Contacts
 
-*LinkedIn*: https://www.linkedin.com/in/aayushi-gupta-8757371a9/
-*Email*: guptaaayushi356@gmail.com
+LinkedIn: https://www.linkedin.com/in/aayushi-gupta-8757371a9/
+Email: guptaaayushi356@gmail.com
 
 
 
