@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## [Portfolio Projects](#PortfolioProject)
 
 -**Python**
-   -[Airbnb Booking Analysis] (https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
+   -[Airbnb Booking Analysis](#AirbnbBookingAnalysis.ipynb)
      
 -**SQL**
 
@@ -62,7 +62,7 @@ Prestige Institute of Management and Research, Indore: Bachelor’s degree, Fore
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here;s a list od the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-[ETL in Python and SQL] (https://www.linkedin.com/learning/certificates/f33badf23078e01640cd035b2b94958c333a06146fafb938aa6bdddecb7c3e44) (Jul 2024) (LinkedIn)
+[ETL in Python and SQL - LinkedIn](https://media.licdn.com/dms/image/v2/D4D22AQHi6bV4WCi6Gw/feedshare-shrink_800/feedshare-shrink_800/0/1721253801536?e=1751500800&v=beta&t=5tdhBQADwrGroImHCa95vGHDhPFy7YUEadqQwrAQ28E) (Jul 2024)
 
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PE6NV328J4ZV) (Mar 2023)
 
