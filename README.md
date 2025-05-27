@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## [Portfolio Projects](#PortfolioProject)
 
 -**Python**
-   -[Airbnb Booking Analysis] (**Airbnb Booking Analysis**)
+   -[Airbnb Booking Analysis] (https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
      
 -**SQL**
 
@@ -36,19 +36,19 @@ This is a repository to showcase skills, share projects and track my progress in
 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases. 
 
-**Airbnb Booking Analysis**
+***Airbnb Booking Analysis***
 
-*Code*: -[Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
+**Code**: -[Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
 
-*Goal*: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
+**Goal**: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
 
-*Description*: This project is a comprehensive exploratory data analysis (EDA) of Airbnb listings, designed to uncover insights into pricing, availability, neighborhood trends, and host activity. By using real-world Airbnb data, we aim to understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
+**Description**: This project is a comprehensive exploratory data analysis (EDA) of Airbnb listings, designed to uncover insights into pricing, availability, neighborhood trends, and host activity. By using real-world Airbnb data, we aim to understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
 
-*Skills*: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Geospatial Analysis, Insight Generation, Business Analytics.
+**Skills**: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Geospatial Analysis, Insight Generation, Business Analytics.
 
-*Tools & Libraries*: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Google Colab.
+**Tools & Libraries**: Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Google Colab.
 
-*Results*: Entire apartments with year-round availability in central areas attract the most bookings and higher prices.
+**Results**: Entire apartments with year-round availability in central areas attract the most bookings and higher prices.
 
 # Education
 
@@ -62,18 +62,19 @@ Prestige Institute of Management and Research, Indore: Bachelor’s degree, Fore
 
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here;s a list od the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-ETL in Python and SQL (Jul 2024) (LinkedIn)
+-[ETL in Python and SQL] (https://www.linkedin.com/learning/certificates/f33badf23078e01640cd035b2b94958c333a06146fafb938aa6bdddecb7c3e44) (Jul 2024) (LinkedIn)
 
-Google Data Analytics Professional Certificate (Mar 2023)
+-[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/verify/PE6NV328J4ZV) (Mar 2023)
 
-QRIOSO’23 - Quizzing Festival IIM Lucknow (Mar 2023)
+-[QRIOSO’23 - Quizzing Festival IIM Lucknow](https://unstop.com/certificate-preview/645db9c2-6c17-4892-8dd4-bc24af2da928) (Mar 2023)
 
-KPMG AU Data Analytics Virtual Internship (Jan 2023)
+-[KPMG AU Data Analytics Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_vppNdZFmFWCKevJu9_1673691606656_completion_certificate.pdf) (Jan 2023)
+
+-[Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
 
 # Contacts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayushi-gupta-8757371a9/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](guptaaayushi356@gmail.com)
 
 
