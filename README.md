@@ -16,10 +16,11 @@ This is a repository to showcase skills, share projects and track my progress in
 ## [Portfolio Projects](#PortfolioProject)
 
 -**Python**
-   -[Airbnb Booking Analysis](#Airbnb_Booking_Analysis.ipynb.ipynb)
+   -[Airbnb Booking Analysis](#AirbnbBookingAnalysis.ipynb.ipynb)
      
 -**SQL**
-   -[Music Store Data Analysis](#Music_Store_Data_Analysis.sql
+   -[Music Store Data Analysis](#MusicStoreDataAnalysis.sql)
+   
 -**Excel / Google Sheets**
 
 -**Tabelau**
@@ -38,7 +39,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ***Airbnb Booking Analysis***
 
-**Code**: [Airbnb_Booking_Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
+**Code**: [Airbnb Booking Analysis.ipynb](https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
 
 **Goal**: To understand booking behaviors and provide actionable recommendations to hosts, travelers, and platform operators.
 
@@ -52,7 +53,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ***Music Store Data Analysis***
 
-**Code**: [Music_Store_Data_Analysis.sql](https://github.com/Aayushigupta357/Music-Store-Data-Analysis/blob/main/Music%20Store%20Data%20Project.sql)
+**Code**: [Music Store Data Analysis.sql](https://github.com/Aayushigupta357/Music-Store-Data-Analysis/blob/main/Music%20Store%20Data%20Project.sql)
 
 **Goal**: To analyze sales and customer data to identify top-performing entities. To segment and understand customer preferences based on music genre.
 
