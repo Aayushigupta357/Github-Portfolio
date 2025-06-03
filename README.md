@@ -50,6 +50,34 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results**: Entire apartments with year-round availability in central areas attract the most bookings and higher prices.
 
+***Music Store Data Analysis***
+
+**Code**: [Music Store Data Analysis.sql](https://github.com/Aayushigupta357/Music-Store-Data-Analysis/blob/main/Music%20Store%20Data%20Project.sql)
+
+**Goal**: To analyze sales and customer data to identify top-performing entities. To segment and understand customer preferences based on music genre.
+
+**Description**: This Project explores data from a digital music store to derive business insights using SQL. The dataset mimics a real-world scenario with customers, invoices, employees, tracks, artists, albums, and genres. The goal is to perform analysis across different complexity levels—basic, moderate, and advanced—to support strategic decision-making in sales, marketing, and customer management.
+
+**Skills**: 
+
+***SQL Querying*** – SELECT, JOIN, GROUP BY, ORDER BY, LIMIT
+
+***Data Aggregation & Filtering*** – SUM, COUNT, AVG, WHERE, HAVING
+
+***Window Functions*** – ROW_NUMBER for ranking within partitions
+
+***CTEs (Common Table Expressions)*** – For modular and readable advanced queries
+
+***Data Analysis*** – Customer segmentation, sales trends, genre popularity
+
+***Relational Database Understanding*** – Navigating normalized schemas with multiple table joins
+
+***Problem Solving*** – Translating business questions into efficient SQL queries
+
+**Tools**: Postgre SQL PgAdmin4
+
+**Result**: Identified key customer and sales insights, revealing top spenders, popular genres, and high-revenue regions to drive strategic business decisions.
+
 # Education
 
 Narsee Monjee Institute of Management Studies, Mumbai - MBA distance, Data Science, Jan 2025 - Jan 2027
