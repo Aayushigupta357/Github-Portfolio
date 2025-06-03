@@ -16,9 +16,10 @@ This is a repository to showcase skills, share projects and track my progress in
 ## [Portfolio Projects](#PortfolioProject)
 
 -**Python**
-   -[Airbnb Booking Analysis](#AirbnbBookingAnalysis.ipynb)
+   -[Airbnb Booking Analysis](#https://github.com/Aayushigupta357/Airbnb-Booking-Analysis/blob/main/Airbnb_booking_analysispynb.ipynb)
      
 -**SQL**
+   -[Music Store Data Analysis](#https://github.com/Aayushigupta357/Music-Store-Data-Analysis/blob/main/Music%20Store%20Data%20Project.sql)
 
 -**Excel / Google Sheets**
 
