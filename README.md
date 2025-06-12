@@ -25,7 +25,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 -**Tabelau**
 
--**Power BI**
+-**Power BI** 
+   -[Bank Customer Churn Rate](#https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685871167470x875678774831469800)
+   
   
 ## [Education](#Education)
 
