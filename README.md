@@ -23,10 +23,17 @@ This is a repository to showcase skills, share projects and track my progress in
    
 -**Excel / Google Sheets**
 
--**Tabelau**
+-**Tabelau** 
+   -[Airbnb Booking Analysis Dashboard](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685735700212x683201901923198300)
 
 -**Power BI** 
-   -[Bank Customer Churn Rate](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685871167470x875678774831469800)
+  
+  -[Bank Customer Churn Rate](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685871167470x875678774831469800)
+
+  -[Ecoomerce Sales Analysis](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685870961766x303872258071886460)
+
+  -[HR Analtics Dashboard](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685870727185x961853009997528600)
+  
    
   
 ## [Education](#Education)
