@@ -30,9 +30,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
   -[Bank Customer Churn Rate](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685871167470x875678774831469800)
 
-  -[Ecoomerce Sales Analysis](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685870961766x303872258071886460)
+  -[Ecommerce Sales Analysis](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685870961766x303872258071886460)
 
-  -[HR Analtics Dashboard](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685870727185x961853009997528600)
+  -[HR Analytics Dashboard](https://www.novypro.com/profile_projects/aayushigupta-1?Popup=memberProject&Data=1685870727185x961853009997528600)
   
    
   
